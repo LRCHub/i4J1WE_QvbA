@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Vermillion",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-18T06:25:26.227371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vermillion",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/01_Vermillion_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vermillion Plaza",
+      "artist": "Deastro",
+      "has_synced": true,
+      "path": "select/02_Vermillion_Plaza_Deastro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vermillion, Part 2 (Bloodstone mix)",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/03_Vermillion,_Part_2_(Bloodstone_mix)_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vermillion, Pt. 2 (Bloodstone Mix)",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/04_Vermillion,_Pt._2_(Bloodstone_Mix)_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vermillion Pt 2 (Bloodstone Mix)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/05_Vermillion_Pt_2_(Bloodstone_Mix)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vermillion Pt. 2",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/06_Vermillion_Pt._2_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vermillion Eyes",
+      "artist": "The Black Angels",
+      "has_synced": true,
+      "path": "select/07_Vermillion_Eyes_The_Black_Angels.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vermillion(&ME Remix)",
+      "artist": "Damian Lazarus & The Ancient Moons",
+      "has_synced": false,
+      "path": "select/08_Vermillion(&ME_Remix)_Damian_Lazarus_&_The_Ancient_Moons.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vermillion Pt. 2",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/09_Vermillion_Pt._2_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vermillion Gold",
+      "artist": "Crossfaith",
+      "has_synced": false,
+      "path": "select/10_Vermillion_Gold_Crossfaith.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vermillion",
+      "artist": "Sofi de la Torre",
+      "has_synced": true,
+      "path": "select/11_Vermillion_Sofi_de_la_Torre.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vermillion (Terry Date mix)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/12_Vermillion_(Terry_Date_mix)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "VERMILLION",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/13_VERMILLION_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vermillion Pt.2 (Bloodstone Mix)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/14_Vermillion_Pt.2_(Bloodstone_Mix)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vermillion Clouds",
+      "artist": "Year of the Goat",
+      "has_synced": false,
+      "path": "select/15_Vermillion_Clouds_Year_of_the_Goat.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Vermillion Pencil",
+      "artist": "Nits",
+      "has_synced": false,
+      "path": "select/16_Vermillion_Pencil_Nits.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vermillion",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_Vermillion_sumika.txt"
+    }
+  ]
+}
